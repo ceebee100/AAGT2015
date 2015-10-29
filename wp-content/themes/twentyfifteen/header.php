@@ -48,4 +48,3 @@
 	</div><!-- .sidebar -->
 
 	<div id="content" class="site-content">
-		<h1>This is a test</h1>
